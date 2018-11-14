@@ -4,7 +4,7 @@ The test consists of creating a tweet dashboard to showcase text mining, data vi
 
 - The app needs to stream tweets written in **Portuguese** from twitter API .
 - The app needs to classify tweet sentiment (e.g. positive, negative, mixed and neutral). 
-- The app needs to show classified tweets in a dashboard.
+- The app needs to show tweets being classified in real-time in a dashboard.
 - The classifier must be written in Python, as it is our language of choice regarding data science. The rest can be written in your language of choice.
 - Feel free to use python libraries, no need to write things from scratch.
 - Accuracy report
