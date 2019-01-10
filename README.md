@@ -16,5 +16,5 @@ Please, as an extra effort, include in your solution the following:
 - Dashboard with metrics (e.g. charts with tweet sentiment, time series, etc etc).
 - Your code should be scalable.
 - Your code need to be on your GitHub profile.
-- Your code need to be hosted on IBM Cloud.
-- Your code need to run inside docker containers, bonus points if running inside an IBM Cloud Kubernetes Cluster.
+- Your code need to be hosted on a Cloud provider.
+- Your code need to run inside docker containers, bonus points if running inside a Kubernetes Cluster.
