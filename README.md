@@ -11,10 +11,10 @@ The test consists of creating a tweet dashboard to showcase text mining, data vi
   - What metric are you using? Why ?
   - Which type of test did you choose ?
   - Include the test dataset.
-
-Please, as an extra effort, include in your solution the following:
-- Dashboard with metrics (e.g. charts with tweet sentiment, time series, etc etc).
-- Your code should be scalable.
 - Your code need to be on your GitHub profile.
-- Your code need to be hosted on a Cloud provider.
-- Your code need to run inside docker containers, bonus points if running inside a Kubernetes Cluster.
+
+Bonus points if you do the following:
+- Dashboard with metrics (e.g. charts with tweet sentiment, time series, etc etc).
+- Your code is scalable.
+- Your code is hosted on a Cloud provider.
+- Your code runs inside docker containers, bonus points if running inside a Kubernetes Cluster.
